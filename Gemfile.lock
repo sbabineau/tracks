@@ -15,7 +15,7 @@ GIT
       actionpack (>= 4.0.0, < 5)
 
 GEM
-  remote: https://rubygems.org/
+  remote: http://rubygems.org/
   specs:
     RedCloth (4.2.9)
     aasm (3.1.1)
